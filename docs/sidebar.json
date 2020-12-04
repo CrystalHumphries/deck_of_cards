@@ -1,6 +1,7 @@
 {
   "nbdev_template": {
     "Overview": "/",
-    "First Module Name": "core.html"
+    "First Module Name": "core.html",
+    "Second Module Name": "file2.html"
   }
 }

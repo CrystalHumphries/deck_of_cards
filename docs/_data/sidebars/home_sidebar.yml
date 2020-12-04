@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: First Module Name
       url: core.html
+    - output: web,pdf
+      title: Second Module Name
+      url: file2.html
     output: web
     title: nbdev_template
   output: web

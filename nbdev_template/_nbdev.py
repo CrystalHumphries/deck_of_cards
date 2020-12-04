@@ -2,7 +2,7 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"Card": "00_core.ipynb"}
+index = {"Card": "01_file2.ipynb"}
 
 modules = ["core.py"]
 
