@@ -62,4 +62,4 @@ sidebars:
 theme: jekyll-theme-cayman
 baseurl: /nbdev_template/
 
-github: [metadata]
+# github: [metadata]
